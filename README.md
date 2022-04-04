@@ -29,4 +29,4 @@ Aiogram:
     python3 main.py
 
 ## Контактные данные
-**Telegram:** [@vlad_eat](t.me/vlad_eat)
+**Telegram:** [@vlad_eat](https://t.me/vlad_eat)
