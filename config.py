@@ -6,7 +6,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 logging.basicConfig(level=logging.INFO)
 
 
-API_TOKEN = '5205628852:AAFVsMoghJvy8ismvif5Dgf2QkPVzN-n1q0'
+API_TOKEN = ''  # Здесь должен быть API токен вашего бота, полученный в @BotFather
 
 
 loop = asyncio.get_event_loop()
